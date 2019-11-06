@@ -1,0 +1,13 @@
+en,ja,description
+resource,resource,HL7 FHIRでの情報モデルの単位
+profile,profile,リソースに制約などを加えた情報モデル
+prescription,処方,
+FHIR,FHIR,FHIR
+Procedure,処置,一般処置
+Implementation Guide,実装ガイド,
+observation,検査,
+observations,検査,
+laboratory,臨床検査,
+lab,臨床検査,
+laboratories,臨床検査,
+perfomer,実施担当者,
